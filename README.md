@@ -1,6 +1,6 @@
 # portscanner9000
 
-A cli remote port scanner with service name lookup. Install it with `npm install portscanner9000`.
+A cli remote port scanner with service name lookup. Install it with `npm install -g portscanner9000`.
 
 # usage
 

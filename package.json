@@ -1,0 +1,38 @@
+{
+  "name": "portscanner9000",
+  "version": "0.1.0",
+  "description": "a cli remote port scanner with service name lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "portscanner9000": "index.js"
+  },
+  "keywords": [
+    "cli",
+    "port",
+    "scan"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.0",
+    "colors": "^1.1.2",
+    "commander": "^2.8.1",
+    "lodash.sortby": "^3.1.5",
+    "lodash.uniq": "^3.2.2",
+    "portscanner": "^1.0.0",
+    "request": "^2.60.0",
+    "well-known-ports": "^0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashtag-include/portscanner9000.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hashtag-include/portscanner9000/issues"
+  },
+  "homepage": "https://github.com/hashtag-include/portscanner9000#readme"
+}

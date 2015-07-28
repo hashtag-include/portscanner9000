@@ -32,7 +32,7 @@ portscanner9000 -r 20..22 bengreenier.com
 
 ```
 # look for open port 80 on hosts bengreenier.com and trjast.com
-portscanner9000 -p bengreenier.com trjast.com
+portscanner9000 -p 80 bengreenier.com trjast.com
 ```
 
 # License

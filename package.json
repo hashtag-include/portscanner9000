@@ -1,6 +1,6 @@
 {
   "name": "portscanner9000",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a cli remote port scanner with service name lookup",
   "main": "index.js",
   "scripts": {
